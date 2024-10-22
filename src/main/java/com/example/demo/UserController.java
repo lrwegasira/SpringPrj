@@ -6,6 +6,6 @@ public class UserController {
     @GetMapping
     public String demo()
     {
-        return "Welcome to Springboot";
+        return "Welcome to Springboots";
     }
 }
